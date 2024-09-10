@@ -1,19 +1,9 @@
-# EP03_Sokoban - 05/07/2014
-
-<html>
-<body>
-<center>
-  <h2>MAC110 - Introdução à Computação
-    <br>
-    Prof. Dr. Paulo Miranda
-    <br>
-    Instituto de Matemática e Estatística (IME)
-    <br>
-    Universidade de São Paulo (USP)
-    <br>
-  </h2>
-</center>
-
+# EP03_Sokoban
+<h1>Universidade de São Paulo - 05/07/2014</h1>
+<h2>MAC110 - Introdução à computação - 
+Prof. Paulo Miranda - Terceiro Exercício-Programa (EP3) - Sokoban</h2>
+<h3>Preview exemplo:</h3><br>
+<img src="https://github.com/user-attachments/assets/2da3f998-db6c-4935-821a-701d792d4d25" width="800"/>
 Sokoban (zelador do armazén) é um tipo de jogo de transporte e movimentação de caixas ou engradados
 em um armazém. O objetivo é pegar e estocar os engradados em determinadas posições. Sokoban foi
 criado em 1981 por Hiroyuki Imabayashi, e publicado em 1982 por Thinking Rabbit, uma emrpesa de
